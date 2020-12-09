@@ -1,0 +1,5 @@
+,Fault_1,Fault_2,Strat_Series,Basement
+Fault_1,False,False,True,True
+Fault_2,False,False,True,True
+Strat_Series,False,False,False,False
+Basement,False,False,False,False

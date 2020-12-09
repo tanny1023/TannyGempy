@@ -1,0 +1,5 @@
+,order_series,BottomRelation,isActive,isFault,isFinite
+Fault_1,1,Fault,True,True,False
+Fault_2,2,Fault,True,True,False
+Strat_Series,3,Erosion,True,False,False
+Basement,4,Erosion,False,False,False
